@@ -78,6 +78,7 @@ body{
   font-size: var(--fs-m);
   text-align: center;
   background-color: var(--clr-700);
+    background: hotpink;
 }
 
 .btn{  
